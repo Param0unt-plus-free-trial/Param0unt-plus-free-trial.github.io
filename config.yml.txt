@@ -1,9 +1,0 @@
-title: Paramount plus free trial
-description: Tap on “Try It Free” button.
-Go ahead with any Monthly/annual plan purchase.
-Put in details demanded.
-On the screen demanding Coupon code, enter the code.
-Proceed by entering Payment details on the page.
-Begin to stream Paramount Plus for free on your device.
-google_analytics: G-MJ22N45YRN
-theme: jekyll-theme-cayman
